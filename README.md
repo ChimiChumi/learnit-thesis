@@ -1,9 +1,10 @@
 # Description
+This is a draft for a work in progress thesis of a course webstore.
 
 # Setup
 - npm install
 - npm run dev
-- 
+
 ## Planning board
 Figma Design: 
 
