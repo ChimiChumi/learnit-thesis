@@ -10,6 +10,8 @@ Figma Design:
 
 https://www.figma.com/file/kWkoUJJkTAlI4h7cKILTRj/Thesis?type=design&node-id=0%3A1&mode=design&t=Nqv2UNOCe6dLnYkp-1
 
+The empty blank spaces in the background will be filled by aesthetic and stylish, AI generated cover-art.
+
 Design pages:
 ![image](https://github.com/ChimiChumi/courseshop-thesis/assets/113592108/c4472810-c39b-4c43-990d-1799a8347eee) 
 
